@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6/BzAuPPCYn6+2y2lcj9KBLLf3KbgMkzx7MtTCQXhF45tFl+fx1rZiZNtpEp+t6+XMEY2rvPS9cBNJ2+WNn13w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\RegistrationCertificate\\RegistrationCertificate\\RegistrationCertificate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
